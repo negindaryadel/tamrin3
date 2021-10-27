@@ -31,8 +31,8 @@ int main()
 
 	cout << "Sorted  Array elements:" << endl;
 	for (int i = 0; i < n; i++)
-		cout << arr[i] << "\t";
-	cout << endl;
+		cout << arr[i] << "  ";
+	
 
     return 0;
 }
